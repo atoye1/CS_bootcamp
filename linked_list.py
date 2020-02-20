@@ -1,7 +1,4 @@
-# -*- coding: utf-8 -*-
-#!python3
 # 컴퓨터사이언스 부트캠프  with 파이썬 연습파일입니다.
-
 
 class Node:
 
@@ -184,7 +181,7 @@ if __name__ == "__main__":
     nlist.append(7)
     nlist.append(99)
 
-    data1, pos1 = nlist.search_target(1)
+    #data1, pos1 = nlist.
 
     if data1:
         print('searched data : {} at pos<{}>'.format(data1, pos1))

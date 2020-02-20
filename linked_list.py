@@ -1,5 +1,5 @@
 #!python3
-
+# 컴퓨터사이언스 부트캠프  with 파이썬 연습파일입니다.
 class Node:
     def __init__(self, data=None):
         #노드는 데이터 부분과 다음 노드를 가르키는 참조를 포함
